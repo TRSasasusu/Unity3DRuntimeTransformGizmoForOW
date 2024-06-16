@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1428824471
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: runtimegizmo
+      Dependencies: {}
