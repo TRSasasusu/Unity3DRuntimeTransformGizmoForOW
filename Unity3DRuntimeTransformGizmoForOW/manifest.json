@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "Unity3DRuntimeTransformGizmoForOW.dll",
+  "author": "orclecle",
+  "name": "Unity3DRuntimeTransformGizmoForOW",
+  "uniqueName": "orclecle.Unity3DRuntimeTransformGizmoForOW",
+  "version": "0.1.0",
+  "owmlVersion": "2.9.0",
+  "dependencies": []
+}
