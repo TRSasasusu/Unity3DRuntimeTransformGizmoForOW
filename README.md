@@ -1,0 +1,2 @@
+This mod is an implementation of https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo as an Outer Wilds mod.
+But, Unity Explorer has already had such a gizmo, so I would not release this as a mod. (See [the prelease v5.0.0 of Unity Explorer](https://github.com/Vesper-Works/Unity-Explorer-For-Outer-Wilds/releases/tag/5.0.0) and [the default key configs on v5.0.1](https://github.com/Vesper-Works/Unity-Explorer-For-Outer-Wilds/releases/tag/5.0.1).)
